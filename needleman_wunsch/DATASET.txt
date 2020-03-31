@@ -1,0 +1,10 @@
+abcdefghi
+abcdfghi
+abcdef
+abcdfg
+ACGT
+ACCT
+erreur
+error
+nouvelleligne
+ouvelligne
